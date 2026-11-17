@@ -1,24 +1,24 @@
 # Revista educativa do Horto e Pomar Pedagógico do CCAE
 
-Trabalho de Felipe de Souza Bento e Eduardo Olimpio da Silva, com orientação de Paulo Roberto Palhano Silva. UFPB, CCAE, Campus IV.
+Esta revista digital apresenta o **Horto e Pomar Pedagógico do Centro de Ciências Aplicadas e Educação (CCAE)**, localizado na unidade de Mamanguape do Campus IV da Universidade Federal da Paraíba (UFPB). O trabalho reúne documentos, depoimentos e registros de campo para mostrar como a iniciativa foi concebida, como o espaço está sendo implantado e o que estudantes, escolas e comunidades do Vale do Mamanguape podem aprender nele.
 
-## Abrir e editar
+A revista acompanha o percurso das mudas, desde o cultivo no Horto até a área de plantio do Pomar. Também mostra o trabalho de quem cuida do espaço, com exemplos de irrigação, reaproveitamento de resíduos para adubo e testes de enraizamento. A partir desses registros, o trabalho discute o Pomar como um **laboratório vivo** para o ensino, a pesquisa, a extensão e a educação ambiental.
 
-Extraia o ZIP inteiro e abra o arquivo `index.html`. As quatro páginas usam HTML, CSS, Bootstrap 4.6.2 local e JavaScript. As imagens, as logomarcas, o edital e o vídeo estão em `assets/`. O projeto funciona sem instalação.
+## O que você vai encontrar
 
-- `index.html` contém capa, carrossel, cards e convite de Wellando.
-- `historia.html` reúne a linha do tempo, a galeria e o mapa.
-- `entrevistas.html` reúne Wellando, Graziele e Nilton.
-- `educacao.html` contém as aplicações educativas, a análise introdutória, a ficha do grupo e as fontes.
-- `assets/css/revista.css` concentra a identidade visual e `assets/js/revista.js` controla acessibilidade e carrossel.
+| Seção | Conteúdo |
+|---|---|
+| **Início** | Apresentação da revista, carrossel de fotografias, vídeo-convite de Wellando Costa e acesso à localização no Google Maps. |
+| **História** | Linha do tempo do projeto, edital de extensão, galeria de fotos, mapa da área e vídeo do espaço de plantio. |
+| **Entrevistas** | Depoimentos de Wellando Costa, Graziele Tobias e do professor Nilton Bittencourt, além de trechos em áudio e vídeo da conversa de campo com Salomão, o Jardineiro Ninja. |
+| **Pomar e educação** | Possibilidades de aulas, pesquisas e visitas escolares, uma atividade para o leitor e uma discussão sobre a organização do trabalho e o papel dos recursos públicos no projeto. |
 
-## Publicar e gerar o QR Code
+## Ficha do grupo
 
-1. Crie um repositório para a revista no GitHub. Envie os arquivos de modo que `index.html` e a pasta `assets` fiquem na raiz.
-2. Em **Settings → Pages**, escolha **Deploy from a branch**, a branch **main** e a pasta **/(root)**. Veja a [documentação oficial do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-3. Abra o endereço que o GitHub Pages mostrar e teste as páginas, o vídeo e o mapa pelo celular.
-4. Gere um QR Code para o endereço público da capa e teste com outro aparelho antes de inseri-lo na apresentação.
+- **Autores:** [Felipe de Souza Bento](https://lattes.cnpq.br/2264536211302584) e [Eduardo Olimpio da Silva](https://lattes.cnpq.br/2006767291115742)
+- **Professor responsável:** [Paulo Roberto Palhano Silva](http://www.ufpb.br/docente/ppalhano1)
+- **Instituição:** Universidade Federal da Paraíba (UFPB), CCAE, Campus IV
 
-## Complementos
+## Sobre o site
 
-A análise de trabalho e financiamento público pode ser refinada com as categorias exatas do resumo das aulas. A página `entrevistas.html` inclui um vídeo de Salomão junto à bandeja. A página `historia.html` inclui um vídeo da área de plantio junto ao mapa. Três trechos da conversa de campo estão em `assets/audio/`. Se houver uma transcrição do convite de Wellando, ela poderá ser adicionada como legenda.
+A revista foi desenvolvida em HTML, CSS, Bootstrap e JavaScript. O site é responsivo e inclui controles de tamanho da fonte e alto contraste. Para abrir uma cópia local, extraia todos os arquivos e abra `index.html` no navegador.
