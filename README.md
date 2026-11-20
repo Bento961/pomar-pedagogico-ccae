@@ -1,4 +1,5 @@
 # Revista educativa do Horto e Pomar Pedagógico do CCAE
+🌱 [Acesse a revista digital do Horto e Pomar Pedagógico](https://bento961.github.io/pomar-pedagogico-ccae/)
 
 Esta revista digital apresenta o **Horto e Pomar Pedagógico do Centro de Ciências Aplicadas e Educação (CCAE)**, localizado na unidade de Mamanguape do Campus IV da Universidade Federal da Paraíba (UFPB). O trabalho reúne documentos, depoimentos e registros de campo para mostrar como a iniciativa foi concebida, como o espaço está sendo implantado e o que estudantes, escolas e comunidades do Vale do Mamanguape podem aprender nele.
 
